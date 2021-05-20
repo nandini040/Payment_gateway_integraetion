@@ -2,7 +2,7 @@
 <h2  align= center> Payment_gateway_integration</h4>
  <h2>Project under</h2> <h3>The Spark foundation Grip May 2021</h3>
 
-# Task 1
+# Task 3
  <h3>PAYMENT GATEWAY INTEGRATION<h3>
 
    **********Web Techniologies used**********
